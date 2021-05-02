@@ -13,3 +13,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+export { Navbar1, Navbar2 }

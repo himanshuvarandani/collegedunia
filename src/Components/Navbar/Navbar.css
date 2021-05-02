@@ -1,3 +1,26 @@
 Nav {
   font-size: 12px;
 }
+
+.navbar2 {
+  position: absolute !important;
+  top: 5em;
+  z-index: 5;
+  width: 100%;
+}
+
+.mr-right {
+  left: 15px;
+}
+
+@media (min-width: 992px) {
+  .navbar2 {
+    top: 3em;
+  }
+}
+
+@media (min-width: 1062px) {
+  .navbar2 {
+    top: 2em;
+  }
+}
