@@ -1,10 +1,10 @@
-Nav {
+.navbar1 {
   font-size: 12px;
 }
 
 .navbar2 {
   position: absolute !important;
-  top: 5em;
+  top: 4em;
   z-index: 5;
   width: 100%;
 }

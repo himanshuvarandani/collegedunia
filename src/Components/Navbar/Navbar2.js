@@ -10,7 +10,7 @@ import cd_logo from "../../Images/cd_logo.png"
 
 const Navbar2 = () => {
   return (
-    <Navbar expand="lg" className="navbar2">
+    <Navbar expand="lg" className="navbar2 pt-0 pb-0">
       <Navbar.Brand href="#home">
         <img src={cd_logo} alt="cd_logo" />
       </Navbar.Brand>

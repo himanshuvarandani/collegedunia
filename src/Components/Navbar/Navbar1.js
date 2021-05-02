@@ -5,7 +5,12 @@ import "./Navbar.css"
 
 const Navbar1 = () => {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" className="pt-0 pl-3 pb-0">
+    <Navbar
+      bg="dark"
+      variant="dark"
+      expand="lg"
+      className="pt-0 pl-3 pb-0 navbar1"
+    >
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

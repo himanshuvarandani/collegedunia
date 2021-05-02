@@ -1,0 +1,44 @@
+.explore .section-header h1 {
+  font-size: 35px;
+  color: #48639e;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.explore .section-header {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.explore .section-header p {
+  line-height: 1.4;
+  color: #9d9d9d;
+  font-weight: 400;
+}
+
+.explore .explore-features-list {
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.explore .explore-features-list .card {
+  border: none;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.explore .explore-features-list .card .card-title {
+  color: "#4f5767";
+}
+
+.explore .explore-features-list .card .card-text {
+  color: #a9a9a9;
+}
+
+.explore .explore-features-list .card:hover {
+  cursor: pointer;
+  border: 1px solid #888888;
+  border-radius: 5px;
+  box-shadow: 5px 5px #888888;
+}

@@ -1,6 +1,7 @@
 import React from "react"
 import { Navbar1, Navbar2 } from "./Components/Navbar"
 import ImageSlider from "./Components/ImageSlider"
+import ExploreFeature from "./Components/Explore"
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Navbar1 />
       <ImageSlider />
       <Navbar2 />
+      <ExploreFeature />
     </div>
   )
 }
