@@ -17,7 +17,7 @@ import "./Explore.css"
 
 const ExploreFeatures = () => {
   return (
-    <div className="explore container">
+    <div className="explore container-fluid">
       <div className="section-header">
         <h1>EXPLORE ALMOST EVERYTHING</h1>
         <p className="text-md">
